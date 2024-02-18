@@ -1,0 +1,10 @@
+ 10056  CenturyLink                    Albuquerque, NM      United States
+ 16869  Plateau Telecommunications     Albuquerque, NM      United States
+  1773  Comcast                        Albuquerque, NM      United States
+ 62294  Vexus                          Albuquerque, NM      United States
+ 62425  Sacred Wind Communications     Albuquerque, NM      United States
+  9694  Sparklight                     Rio Rancho, NM       United States
+ 38658  NMSURF                         Rio Rancho, NM       United States
+  9686  NMSURF                         Santa Fe, NM         United States
+ 45706  Windstream                     Española, NM        United States
+ 21638  Kitcarson                      Taos, NM             United States
